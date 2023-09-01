@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=anaghfunc
+comment1.params=m\ n
+comment1.target=anaghfunc(int,\ int)
+comment2.params=
+comment2.target=void\ opp()
+comment3.params=c
+comment3.target=void\ calculate(int)
+comment4.params=
+comment4.target=void\ display()
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6
