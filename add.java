@@ -1,7 +1,7 @@
 import java.util.*;
 
 // This is a Java Program to add two Binary numbers which are entered by a user
-class Main
+class add
 {
     public static void main(String args[])
     {
